@@ -1,6 +1,6 @@
 ## LREC-COLING2024
 A respository for the LREC-COLING2024 submission "Willkommens-Merkel, Chaos-Johnson, and Tore-Klose: Modeling the Evaluative Meaning of German Personal Name Compounds".
-As of now, the repository contains the 321 personal name compounds we investigate in the paper. Upon publication, relevant models and scripts to reproduce results will be added.
+The repository contains the 321 personal name compounds we investigate in the paper. 
 
 In case of questions, please raise a Github issue.
 
